@@ -1,0 +1,4 @@
+langchain
+ipykernel
+langchain-core
+python-dotenv
